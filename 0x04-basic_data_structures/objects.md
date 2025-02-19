@@ -122,7 +122,7 @@ console.log(student["lastName"]); // Output: "Doe"
 
 ##  Modifying Object Properties
 
-####nAdding new properties
+#### Adding new properties
 
 You can ude the dot or bracket to add new properties to an object.
 
@@ -160,7 +160,7 @@ const student = {
 
 ```
 
-    ### Deleting a property
+#### Deleting a property
 
  Use `delete` keyword to remove a property
 
